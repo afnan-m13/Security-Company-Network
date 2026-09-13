@@ -6,7 +6,7 @@ A complete Cisco Packet Tracer simulation of a multi-department enterprise netwo
 
 ### 📷 Network Topology Diagram
 
-![Security Company Network Topology]
+
 <img width="1198" height="571" alt="network" src="https://github.com/user-attachments/assets/d3b47aae-270f-4c4b-b4af-b245c7237433" />
 
 
