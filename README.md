@@ -44,7 +44,8 @@ A complete Cisco Packet Tracer simulation of a multi-department enterprise netwo
 
 ---
 
-### 👥 Authors & Contributors
-* **Course**: Computer Networks (CS2091)
+### 👥 Team
+* **Authors**: Jana Mufti, Afnan Kamel, Aya Mohammed, Afrah Bashaddadah
 * **Supervisor**: Dr. Mohammad Nauman
-* **Contributors**: Jana Mufti, Afnan Kamel, Aya Mohammed, Afrah Bashaddadah
+* **Course**: Computer Networks (CS2091)
+
